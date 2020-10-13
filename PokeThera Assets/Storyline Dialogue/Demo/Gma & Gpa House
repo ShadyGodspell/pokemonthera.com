@@ -1,0 +1,41 @@
+NPCS
+Old Grandma and Grandpa:
+
+NPC (Old Grandma):
+Talk to this NPC to start the convo.
+She replies with,
+"Tell me traveler, what pokemon is the most majestic in all the land?!
+I personally believe diglett is the best Pokemon in existance!
+With its marvelous eyes, and its amazing curves, it is BY FAR the best Pokemon ever!"
+
+ NPC 2 (Old Grandpa):
+Comes in when convo has started after sentence above is done
+He then says,
+"You old crone! Why the Jynx is diglett the best Pokemon?!
+Obviously, Victini, Celebi, and Jirachi are the best pokemon throughout the lands of Thera!"
+
+ NPC (Old Grandma):
+She then says,
+"So which one is the best young traveler!?"
+
+This is where the player chooses Diglett or Victini, Celebi, and Jirachi.
+
+ NPC (Old Grandma):
+She says this only if the player chooses diglett.
+"Young traveler! I knew you were a Diglett fanatic like myself! Quickly take my grandson's inheritance!"
+
+They now receive Shiny Diglett, Arceus (Not Shiny), and a Master Ball.
+
+NPC (Old Grandpa):
+He only says this if the player chooses the 3 mythicals
+"Mighty Traveler! I knew you would understand the importance of the 3 mythical legendaries! For this wonderful choice, I will let you choose one of my prized pokemon!"
+
+They now choose either Celebi, Victini, or Jirachi. (Not Shiny)
+
+ NPC (Old Grandma):
+The old gma says this assuming the player chooses diglett,
+"Everyone was bugging me for that Arceus, but I told myself I would only save it for someone who understands the importance of Diglett!"
+
+ NPC (Old Grandpa):
+The old gpa says this only if the player chooses the 3 mythicals,
+"I have been saving those mythicals for the day that someone came to claim them."
