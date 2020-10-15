@@ -49,8 +49,25 @@ After they talk to her she will reply with,
  "Heh..."
  
  When the player talks to the little girl now she replies with,
- "For your pathetic attempt to find my doll, there are Pokemon in here..."
+"For your pathetic attempt to find my doll you get nothing..."
  
- "Go catch one or something..."
+"alright fine..."
+
+"You can have this I guess..."
+
+"It belonged to the last person who tried to help me..."
+
  
- End of quest
+ The player now receives a Masterball.
+ 
+ 
+ "What happened to him?
+ 
+ "Why do you ask so many questions?
+ 
+ "GO AWAY!"
+
+If the player tries to talk to anyone after this they all don't respond
+
+End of quest
+
