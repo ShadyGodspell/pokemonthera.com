@@ -8,3 +8,12 @@ I'm trading her for a quilava!"
 
 Then offers to trade it if the trainer owns quilava.
 If the trainer has a quilava, then the trainer gets a female flabebe for quilava.
+
+After the trade is finished, the NPC replies with,
+"Take good care of my FlaeFlae!"
+
+If the player doesn't have a quilava and doesn't trade then they reply with,
+"Awe.. You don't have a quilava..."
+
+If the player has a quilava and doesn't want to trade then the NPC replies with,
+"If you ever want to trade your quilava; I'll trade for it anyday!"
