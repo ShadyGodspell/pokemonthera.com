@@ -1,2 +1,10 @@
-Something to do with flowers
-flabebe
+Talk to this NPC to make the quest begin
+
+NPC replies with,
+"Do you like flowers?
+My husband buys me flowers all the time, but this time he came home with two rare flower Pokemon...
+Would you like one?
+I'm trading her for a quilava!"
+
+Then offers to trade it if the trainer owns quilava.
+If the trainer has a quilava, then the trainer gets a female flabebe for quilava.
